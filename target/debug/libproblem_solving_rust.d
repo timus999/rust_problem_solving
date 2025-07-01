@@ -1,0 +1,1 @@
+/home/timus/Desktop/problem/problem_solving_rust/target/debug/libproblem_solving_rust.rlib: /home/timus/Desktop/problem/problem_solving_rust/src/anagram.rs /home/timus/Desktop/problem/problem_solving_rust/src/lib.rs
